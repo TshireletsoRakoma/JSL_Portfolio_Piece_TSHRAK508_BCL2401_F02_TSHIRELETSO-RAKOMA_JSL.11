@@ -1,3 +1,6 @@
+## LOOM VIDEO[https://www.loom.com/share/ae0e3bc835eb4f61aaa84a5c7becd0c7?sid=0f91bbb4-b96b-473f-8f41-efba4cd8714b]
+
+
 ## This JavaScript code is a part of a task management application. It includes functionality to manage tasks and boards, interact with the user interface, and store and retrieve data from local storage. Here is an overview of the different parts and functionalities in the code:
 
 ## Initialization and Data Management
