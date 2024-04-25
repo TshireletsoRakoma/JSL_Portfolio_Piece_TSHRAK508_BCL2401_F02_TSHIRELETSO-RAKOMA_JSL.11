@@ -230,7 +230,7 @@ function toggleModal(show, modal = elements.modalWindow) {
 
 // Style for the sideBar nav links, margin between the Nav Links Div's
 elements.boardsNavLinksDiv.style.marginTop = "2.5rem";
-elements.boardsNavLinksDiv.style.marginBottom = '17rem';
+elements.boardsNavLinksDiv.style.marginBottom = '29rem';
 /*************************************************************************************************************************************************
  * COMPLETE FUNCTION CODE
  * **********************************************************************************************************************************************/
